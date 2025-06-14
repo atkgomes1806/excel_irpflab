@@ -18,15 +18,12 @@ Facilitar o processo de declaração do imposto de renda por meio de um agregado
 
 - 🧾 Entrada de dados organizada por abas temáticas  
 - 🔍 Validação de dados para evitar inconsistências  
-- 📁 Interface amigável com menus e atalhos  
-- 📎 Links úteis para sites oficiais e simuladores  
-- 📊 Preparação de dados para declaração no programa da Receita Federal
+- 📁 Interface amigável com menus e atalhos   
 
 ## 🧠 Tecnologias e Ferramentas
 
 - 📘 Microsoft Excel 2016  
-- 📊 Fórmulas e Validações  
-- 🔗 Hyperlinks internos e externos  
+- 📊 Fórmulas e Validações    
 - 📌 Estrutura baseada em boas práticas de usabilidade
 
 ## 🎯 Aprendizados com o Projeto
